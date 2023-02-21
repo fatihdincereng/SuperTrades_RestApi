@@ -13,7 +13,7 @@
 
 > Add your database information
 
-![image](https://user-images.githubusercontent.com/88143919/220453369-e95cab2f-2940-49ad-a595-4b7f3bf364d3.png)
+![image](https://user-images.githubusercontent.com/88143919/220453979-8391d5dc-2e8e-47e8-a5ee-5e46f1959ac2.png)
 
 
 > npm install
