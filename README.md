@@ -11,10 +11,9 @@
 ## Installation 
 > You need to open a database named super_trades in Mysql Database.
 
-> Add your database information
+> Add the database details in the .env.db extension.
 
 ![image](https://user-images.githubusercontent.com/88143919/220453979-8391d5dc-2e8e-47e8-a5ee-5e46f1959ac2.png)
-
 
 > npm install
 
