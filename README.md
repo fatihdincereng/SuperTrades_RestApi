@@ -9,7 +9,7 @@
 
 
 ## Installation 
-> You need to open a database named super_trades in Mysql Database.
+> You need to open a database named super_trades in MySql Database.
 
 > Add the database details in the .env.db extension.
 
