@@ -21,6 +21,6 @@
 > node index
 
 ## Used Technologies
->EXPRESSJS SEQUİLIZE  MYSQL 
+>Expressjs Sequelize  MySql 
 
 
