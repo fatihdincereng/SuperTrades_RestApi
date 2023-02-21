@@ -10,10 +10,3 @@
 <h2 align="center">Installation</h2>
 
 
-
-- 🌱 I’m currently learning **Spring Framework**
-
-- 💬 Ask me about **Angular**
-
-- 📫 How to reach me **fatihdincereng@gmail.com**
-
