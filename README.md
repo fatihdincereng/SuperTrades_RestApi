@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">Super Traders is a Rest Api application designed to educate users on the terminology used in stock trading.
+<h3 align="center">Super Traders is a Rest Api application designed to educate users on the terminology used in stock trading. 
 </h3>
 
 <br>
