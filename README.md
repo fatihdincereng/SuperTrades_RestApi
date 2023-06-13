@@ -1,4 +1,4 @@
-<h1 align="center">Welcome Super Trades 👋</h1> 
+<h1 align="center">Welcome Super Trades 👋</h1>  
 
 
 
